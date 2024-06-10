@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "title": "Zindagi na milegi dobara",
+      "director": "Zoya Akthar",
+      "year": "2011",
+      "imageUrl": "https://opinionsareonions.com/wp-content/uploads/2023/12/17_10_2023-zindagi_na_milegi_dobara_sequel_23558600.webp",
+      "id": 3
+    },
+    {
+      "title": "Wake up Sid",
+      "director": "Ayan Mukherjii",
+      "year": "2009",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDc5NzU3NmItYWExNS00N2JmLThiOGEtYWY4ODkyZWVmZGE0XkEyXkFqcGdeQXVyMTMzMDEwMzM0._V1_.jpg",
+      "id": 6
+    },
+    {
+      "title": "Aavesham",
+      "director": "Jithu Madhavan",
+      "year": "2024",
+      "imageUrl": "https://cdn.gulte.com/wp-content/uploads/2024/04/2353.jpg",
+      "id": 7
+    },
+    {
+      "title": "Siderman",
+      "director": "Jon Watts",
+      "year": "2021",
+      "imageUrl": "https://images.cnbctv18.com/wp-content/uploads/2021/12/spiderman-no-way-home.jpg",
+      "id": 8
+    }
+  ]
+}
